@@ -28,7 +28,7 @@ const Navbar = () => {
       <div className="flex justify-between">
         <div className="logo flex items-center gap-3">
           <img src={airplaneLogo} alt="plane" className="w-[25px] h-[31px]" />
-          <div className="font-roboto font-extrabold text-2xl">VOYAGE</div>
+          <div className="font-roboto font-extrabold text-2xl">Travellia</div>
         </div>
         <ul className="flex gap-10 items-center font-roboto">
           {navigationMenu.map((item) => (

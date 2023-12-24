@@ -16,7 +16,7 @@ const Footer = () => {
         <div>
           <h4 className="font-bold text-xl mb-10">About Us</h4>
           <p>
-            Voyage is a tour and travel website, for people who love to travel
+            Travellia is a tour and travel website, for people who love to travel
             but are scared of journey and the bookings part. We are here to help
             all travel enthusiasts.
           </p>
