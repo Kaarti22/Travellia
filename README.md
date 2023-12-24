@@ -6,8 +6,8 @@
     <img src="./client/public/book_now_photo.png" width="410">
 </p>
 <p float="left">
-    <img src="./client/public/package.png" width="410">
-    <img src="./client/public/gallery.png" width="410">
+    <img src="./client/public/package_photo.png" width="410">
+    <img src="./client/public/gallery_photo.png" width="410">
 </p>
 <p float="left">
     <img src="./client/public/services_photo.png" width="410">
